@@ -1,0 +1,26 @@
+[
+ {
+  "Date": "1151008",
+  "Code": "2330",
+  "Name": "台積電",
+  "PEratio": "29.56",
+  "DividendYield": "0.86",
+  "PBratio": "10.28"
+ },
+ {
+  "Date": "1151008",
+  "Code": "2882",
+  "Name": "國泰金",
+  "PEratio": "12.97",
+  "DividendYield": "3.18",
+  "PBratio": "1.59"
+ },
+ {
+  "Date": "1151008",
+  "Code": "1101",
+  "Name": "台泥",
+  "PEratio": "",
+  "DividendYield": "3.11",
+  "PBratio": "0.83"
+ }
+]

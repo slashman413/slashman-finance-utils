@@ -1,0 +1,67 @@
+[
+ {
+  "Date": "1151008",
+  "Code": "0050",
+  "Name": "元大台灣50",
+  "TradeVolume": "99877876",
+  "TradeValue": "11509275054",
+  "OpeningPrice": "115.35",
+  "HighestPrice": "115.55",
+  "LowestPrice": "114.90",
+  "ClosingPrice": "114.95",
+  "Change": "-1.1000",
+  "Transaction": "191636"
+ },
+ {
+  "Date": "1151008",
+  "Code": "2317",
+  "Name": "鴻海",
+  "TradeVolume": "40251153",
+  "TradeValue": "10059109830",
+  "OpeningPrice": "251.00",
+  "HighestPrice": "251.00",
+  "LowestPrice": "249.00",
+  "ClosingPrice": "249.00",
+  "Change": "-3.0000",
+  "Transaction": "49163"
+ },
+ {
+  "Date": "1151008",
+  "Code": "2330",
+  "Name": "台積電",
+  "TradeVolume": "23145193",
+  "TradeValue": "59167379273",
+  "OpeningPrice": "2550.00",
+  "HighestPrice": "2575.00",
+  "LowestPrice": "2550.00",
+  "ClosingPrice": "2550.00",
+  "Change": "-35.0000",
+  "Transaction": "141976"
+ },
+ {
+  "Date": "1151008",
+  "Code": "00625K",
+  "Name": "富邦上証+R",
+  "TradeVolume": "",
+  "TradeValue": "",
+  "OpeningPrice": "",
+  "HighestPrice": "",
+  "LowestPrice": "",
+  "ClosingPrice": "",
+  "Change": "0.0000",
+  "Transaction": ""
+ },
+ {
+  "Date": "1151008",
+  "Code": "00643K",
+  "Name": "群益深証中小+R",
+  "TradeVolume": "",
+  "TradeValue": "",
+  "OpeningPrice": "",
+  "HighestPrice": "",
+  "LowestPrice": "",
+  "ClosingPrice": "",
+  "Change": "0.0000",
+  "Transaction": ""
+ }
+]
